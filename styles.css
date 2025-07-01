@@ -1,16 +1,22 @@
 
 /* Your CSS Code here. */
 
+body{
+	
+	
+}
+
 .holder{
+	display: flex;
+	height: 100vh;
+	width: 100vw;
 	justify-content: center;
 	align-content: center;
 	
-	height: 100vh;
-	width: 100vw;
 }
 
 .item.item-1{
-	display: flex;
+	/* display: flex; */
 	margin: auto;
 	height: 100px;
 	width: 100px;
